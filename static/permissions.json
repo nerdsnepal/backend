@@ -1,0 +1,18 @@
+{
+    "privileges":[
+            {
+                "name":"User",
+                "collection":"users"
+            },
+            {
+                "name":"Category",
+                "collection":"category"
+            },
+            {
+                "name":"Product",
+                "collection":"product"
+            }
+    ]
+
+
+}
